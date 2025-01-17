@@ -1,0 +1,7 @@
+
+Booking Application Logs: Fri,Jan 17
+Total suggested pre-count of hotels from UI: Hyderabad: 968 properties found
+
+Total suggested post-count: Hyderabad: 247 properties found
+
+Selected hotel: Ashray - Vintage Homes
